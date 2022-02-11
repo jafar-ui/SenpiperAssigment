@@ -2,6 +2,6 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/livTrain?createDatabaseIfNotExist=true
     username: admin
-    password: Daffodil@9090
+    password: admin
 
     driver-class-name: com.mysql.cj.jdbc.Driver
